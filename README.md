@@ -67,6 +67,6 @@
 
 ---
 
-## 👤 作者
+## 作者
 
 **Bo-Ren Cheng（鄭博仁）** — Soochow University, Taiwan
