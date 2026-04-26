@@ -70,3 +70,10 @@
 ## 作者
 
 **Bo-Ren Cheng（鄭博仁）** — Soochow University, Taiwan
+
+---
+## 授權
+Copyright (c) 2026 Bo-Ren Cheng(BoRenCheng)
+
+本專案採用 MIT License 授權。
+
